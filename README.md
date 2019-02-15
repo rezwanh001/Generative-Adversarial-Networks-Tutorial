@@ -5,9 +5,14 @@
 
    **Q1. Why study generative models?**
    
-   Ans:
+   *Ans:*
         
    * Excellent test of our ability to use high-dimensional, complicated probability distributions.
+   * Simulate posible future for plannig or simulated Reinforcement Learning(RL).
+   * Missing data
+      * Semi-supervised learning.
+   * Multi modal outputs
+   * Realisic generation tasks.i.e., generation of images or audio waveforms as the actual specification of the tasks itself and these clearly require generative modeling intrinsically.
        
        
       
