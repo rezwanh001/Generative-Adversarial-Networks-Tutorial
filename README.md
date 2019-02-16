@@ -3,7 +3,7 @@
 
 ----------------------------------------------
 
-   **Q1. Why study generative models?**
+### Q1. Why study generative models?
    
    *Ans:*
         
@@ -12,7 +12,7 @@
    * Missing data
       * Semi-supervised learning.
    * Multi modal outputs
-   * Realisic generation tasks.i.e., generation of images or audio waveforms as the actual specification of the tasks itself and these clearly require generative modeling intrinsically.
+   * Realisic generation tasks.i.e., generation of images or audio waveforms as the actual specification of the tasks itself and these clearly require generative modeling intrinsically [1].
        
        
       
